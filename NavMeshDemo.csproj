@@ -222,6 +222,7 @@
     <Compile Include="Assets\src\MapProperty.cs" />
     <Compile Include="Assets\src\NavMeshWindow.cs" />
     <Compile Include="Assets\src\PathTest.cs" />
+    <Compile Include="Assets\src\PolygonNavMeshWindow.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
