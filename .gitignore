@@ -1,0 +1,16 @@
+﻿# 项目文件夹
+Temp/
+Logs/
+Library/
+Build/
+.idea/
+obj/
+.vs/
+ProjectSettings/
+UserSettings/
+Assembly-CSharp.csproj
+slots-tool.sln
+
+/ProjectSettings/
+log/
+Assets/StreamingAssets/
