@@ -6,5 +6,3 @@ Unity client navmesh export to server for pathfinding
 
 
 ### TODO 
-* add document
-* add server tool download

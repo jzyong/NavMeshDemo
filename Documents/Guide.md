@@ -1,7 +1,7 @@
 ﻿&emsp;&emsp;基于unity的navmesh寻路，用于将unity中的三角网格行走层数据导入服务器中，用于服务器进行怪物的AI、玩家寻路、技能战斗等判断。
 寻路方式采用A*算法。服务器算法参考 [GameAi4j](https://github.com/jzyong/GameAi4j) 项目，客户端操作参考 [NavMeshDemo](https://github.com/jzyong/NavMeshDemo)
 
-## 客户端导出navmesh数据操作
+## 导出navmesh数据操作
 1. 创建地图场景1_NewbieArea，创建行走层对象model_1_xzm，Static选择Navigation Static
 2. 选择 `工具/导出服务器NavMesh`弹出工具窗口
 3. 点击测试地图大小，修改地图范围
