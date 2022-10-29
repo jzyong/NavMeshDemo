@@ -15,3 +15,5 @@ slots-tool.sln
 /ProjectSettings/
 log/
 Assets/StreamingAssets/
+Assets/Samples/
+Assets/Samples.meta
